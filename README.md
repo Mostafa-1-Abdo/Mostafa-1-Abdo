@@ -1,5 +1,5 @@
 # About Me
-I am a second-year Computer & Automatic Control Engineering student. I built a strong foundation in programming using C++ and object-oriented programming, and I am now moving on to C# to pursue full-stack .NET development.<br><br>I am also interested in machine learning and AI, and I enjoy learning new technologies.<br><br>I am looking for internship opportunities where I can apply what I’ve learned and gain real-world experience.
+I am a second-year Computer & Automatic Control Engineering student. I built a strong foundation in programming using C++ and object-oriented programming, and I am now moving on to C# to pursue full-stack .NET development.<br><br>I am looking for internship opportunities where I can apply what I’ve learned and gain real-world experience.
 
 
 # Socials
