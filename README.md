@@ -31,6 +31,6 @@ I am a second-year Computer & Automatic Control Engineering student. I built a s
 ### GitHub Overview
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Mostafa-1-Abdo&theme=github_dark&hide_border=true&timezone=Africa/Cairo" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Mostafa-1-Abdo&theme=github_dark&hide_border=true&timezone=Africa/Cairo&count_private=true" alt="GitHub Streak" width="48%" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Mostafa-1-Abdo&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
 </div>
