@@ -4,18 +4,18 @@ Computer & Automatic Control Engineering Student | Aspiring Full-Stack .NET Deve
 
 ---
 
-### About Me
+## About Me
 I am a second-year Computer & Automatic Control Engineering student. I built a strong foundation in programming using C++ and object-oriented programming, and I am now moving on to C# to pursue full-stack .NET development.<br><br>I am looking for internship opportunities where I can apply what I’ve learned and gain real-world experience.
 
 ---
 
-### Connect
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-1-abdo) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mostafaabdo4789@gmail.com)
 
 ---
 
-### Technical Skills
+## Technical Skills
 
 **Programming Languages:**
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -28,9 +28,19 @@ I am a second-year Computer & Automatic Control Engineering student. I built a s
 
 ---
 
-### GitHub Overview
+## GitHub Overview
 
 <div align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Mostafa-1-Abdo&theme=github_dark&hide_border=true&timezone=Africa/Cairo&count_private=true" alt="GitHub Streak" width="48%" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Mostafa-1-Abdo&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
 </div>
+
+---
+
+## Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mostafa-1-Abdo/Mostafa-1-Abdo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mostafa-1-Abdo/Mostafa-1-Abdo/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Mostafa-1-Abdo/Mostafa-1-Abdo/output/github-contribution-grid-snake.svg">
+</picture>
